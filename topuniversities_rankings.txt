@@ -1,0 +1,208 @@
+1
+Massachusetts Institute of Technology (MIT) LogoMassachusetts Institute of Technology (MIT)More	United States		
+2
+Stanford University LogoStanford UniversityMore	United States		
+3
+Carnegie Mellon University LogoCarnegie Mellon UniversityMore	United States		
+4
+University of California, Berkeley (UCB) LogoUniversity of California, Berkeley (UCB)More	United States		
+7
+Harvard University LogoHarvard UniversityMore	United States		
+11
+Princeton University LogoPrinceton UniversityMore	United States		
+15
+University of California, Los Angeles (UCLA) LogoUniversity of California, Los Angeles (UCLA)More	United States		
+18
+University of Washington LogoUniversity of WashingtonMore	United States		
+=19
+Columbia University LogoColumbia UniversityMore	United States		
+=19
+Cornell University LogoCornell UniversityMore	United States		
+=19
+New York University (NYU) LogoNew York University (NYU)More	United States		
+27
+Georgia Institute of Technology LogoGeorgia Institute of TechnologyMore	United States		
+29
+California Institute of Technology (Caltech) LogoCalifornia Institute of Technology (Caltech)More	United States		
+31
+University of Texas at Austin LogoUniversity of Texas at AustinMore	United States		
+33
+University of Illinois at Urbana-Champaign LogoUniversity of Illinois at Urbana-ChampaignMore	United States		
+35
+University of Pennsylvania LogoUniversity of PennsylvaniaMore	United States		
+44
+University of Southern California LogoUniversity of Southern CaliforniaMore	United States		
+46
+Yale University LogoYale UniversityMore	United States		
+47
+University of Chicago LogoUniversity of ChicagoMore	United States		
+=48
+University of Michigan-Ann Arbor LogoUniversity of Michigan-Ann ArborMore	United States		
+50
+University of Maryland, College Park LogoUniversity of Maryland, College ParkMore	United States		
+51-100
+Boston University LogoBoston UniversityMore	United States		
+51-100
+Duke University LogoDuke UniversityMore	United States		
+51-100
+Johns Hopkins University LogoJohns Hopkins UniversityMore	United States		
+51-100
+Purdue University LogoPurdue UniversityMore	United States		
+51-100
+University of California, San Diego (UCSD) LogoUniversity of California, San Diego (UCSD)More	United States		
+51-100
+University of Wisconsin-Madison LogoUniversity of Wisconsin-MadisonMore	United States		
+101-150
+Michigan State University LogoMichigan State UniversityMore	United States		
+101-150
+Pennsylvania State University LogoPennsylvania State UniversityMore	United States		
+101-150
+University of California, Irvine LogoUniversity of California, IrvineMore	United States		
+101-150
+University of Massachusetts Amherst LogoUniversity of Massachusetts AmherstMore	United States		
+101-150
+University of North Carolina, Chapel Hill LogoUniversity of North Carolina, Chapel HillMore	United States		
+151-200
+Brown University LogoBrown UniversityMore	United States		
+151-200
+Northeastern University LogoNortheastern UniversityMore	United States		
+151-200
+Northwestern University LogoNorthwestern UniversityMore	United States		
+151-200
+The Ohio State University LogoThe Ohio State UniversityMore	United States		
+151-200
+Rice University LogoRice UniversityMore	United States		
+151-200
+Rutgers University–New Brunswick LogoRutgers University–New BrunswickMore	United States		
+151-200
+Stony Brook University, State University of New York LogoStony Brook University, State University of New YorkMore	United States
+151-200
+Texas A&M University LogoTexas A&M UniversityMore	United States		
+151-200
+University of California, Santa Barbara (UCSB) LogoUniversity of California, Santa Barbara (UCSB)More	United States		
+151-200
+University of Pittsburgh LogoUniversity of PittsburghMore	United States		
+151-200
+University of Virginia LogoUniversity of VirginiaMore	United States		
+201-250
+Arizona State University LogoArizona State UniversityMore	United States		
+201-250
+Indiana University Bloomington LogoIndiana University BloomingtonMore	United States		
+201-250
+North Carolina State University LogoNorth Carolina State UniversityMore	United States		
+201-250
+University of California, Davis LogoUniversity of California, DavisMore	United States		
+201-250
+University of Florida LogoUniversity of FloridaMore	United States		
+201-250
+University of Illinois at Chicago (UIC) LogoUniversity of Illinois at Chicago (UIC)More	United States		
+201-250
+University of Notre Dame LogoUniversity of Notre DameMore	United States		
+201-250
+Virginia Polytechnic Institute and State University LogoVirginia Polytechnic Institute and State UniversityMore	United States		
+251-300
+George Mason University LogoGeorge Mason UniversityMore	United States		
+251-300
+The University of Arizona LogoThe University of ArizonaMore	United States		
+251-300
+University of Colorado Boulder LogoUniversity of Colorado BoulderMore	United States		
+251-300
+University of Minnesota Twin Cities LogoUniversity of Minnesota Twin CitiesMore	United States		
+251-300
+University of Texas Dallas LogoUniversity of Texas DallasMore	United States		
+251-300
+Washington State University LogoWashington State UniversityMore	United States		
+251-300
+Washington University in St. Louis LogoWashington University in St. LouisMore	United States		
+301-350
+Florida State University LogoFlorida State UniversityMore	United States		
+301-350
+George Washington University LogoGeorge Washington UniversityMore	United States		
+301-350
+University of Rochester LogoUniversity of RochesterMore	United States		
+351-400
+Dartmouth College LogoDartmouth CollegeMore	United States		
+351-400
+Georgia State University LogoGeorgia State UniversityMore	United States		
+351-400
+Illinois Institute of Technology LogoIllinois Institute of TechnologyMore	United States		
+351-400
+Rensselaer Polytechnic Institute LogoRensselaer Polytechnic InstituteMore	United States		
+351-400
+Syracuse University LogoSyracuse UniversityMore	United States		
+351-400
+University at Buffalo SUNY LogoUniversity at Buffalo SUNYMore	United States		
+351-400
+University of Central Florida LogoUniversity of Central FloridaMore	United States		
+351-400
+University of Miami LogoUniversity of MiamiMore	United States		
+351-400
+University of Utah LogoUniversity of UtahMore	United States		
+351-400
+Vanderbilt University LogoVanderbilt UniversityMore	United States		
+401-450
+Iowa State University LogoIowa State UniversityMore	United States		
+401-450
+University of South Florida LogoUniversity of South FloridaMore	United States		
+401-450
+The University of Tennessee, Knoxville LogoThe University of Tennessee, KnoxvilleMore	United States		
+451-500
+Case Western Reserve University LogoCase Western Reserve UniversityMore	United States		
+451-500
+City University of New York LogoCity University of New YorkMore	United States		
+451-500
+William & Mary LogoWilliam & MaryMore	United States		
+451-500
+Florida International University LogoFlorida International UniversityMore	United States		
+451-500
+Georgetown University LogoGeorgetown UniversityMore	United States		
+451-500
+Temple University LogoTemple UniversityMore	United States		
+451-500
+The University of Georgia LogoThe University of GeorgiaMore	United States		
+451-500
+Tufts University LogoTufts UniversityMore	United States		
+451-500
+The University of Alabama LogoThe University of AlabamaMore	United States		
+451-500
+University of California, Santa Cruz LogoUniversity of California, Santa CruzMore	United States		
+451-500
+University of South Carolina LogoUniversity of South CarolinaMore	United States		
+451-500
+Wayne State University LogoWayne State UniversityMore	United States		
+501-550
+Colorado State University LogoColorado State UniversityMore	United States		
+501-550
+Drexel University LogoDrexel UniversityMore	United States		
+501-550
+Emory University LogoEmory UniversityMore	United States		
+501-550
+Michigan Technological University LogoMichigan Technological UniversityMore	United States		
+501-550
+New Jersey Institute of Technology (NJIT) LogoNew Jersey Institute of Technology (NJIT)More	United States		
+501-550
+University of California, Riverside LogoUniversity of California, RiversideMore	United States		
+501-550
+University of Connecticut LogoUniversity of ConnecticutMore	United States		
+501-550
+University of Houston LogoUniversity of HoustonMore	United States		
+501-550
+University of Maryland, Baltimore County LogoUniversity of Maryland, Baltimore CountyMore	United States		
+501-550
+University of Texas at San Antonio LogoUniversity of Texas at San AntonioMore	United States		
+551-600
+Binghamton University SUNY LogoBinghamton University SUNYMore	United States		
+551-600
+Clemson University LogoClemson UniversityMore	United States		
+551-600
+Oregon State University LogoOregon State UniversityMore	United States		
+551-600
+Texas Tech University LogoTexas Tech UniversityMore	United States		
+551-600
+University of Missouri, Columbia LogoUniversity of Missouri, ColumbiaMore	United States		
+551-600
+University of Nebraska - Lincoln LogoUniversity of Nebraska - LincolnMore	United States		
+551-600
+University of Oregon LogoUniversity of OregonMore	United States		
+551-600
+University of Texas Arlington LogoUniversity of Texas ArlingtonMore	United States
