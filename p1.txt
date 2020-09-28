@@ -1,0 +1,79 @@
+Phase 1 
+Github repository: https://github.com/tangteresa/INFO2950-Project 
+
+Idea 1: What combination of factors results in the greatest post-undergrad salary for CS majors (not including grad school)?
+
+Factors: 
+School’s undergraduate computer science program prestige (as ranked by US News) 
+Average professor rating from ratemyprofessors.com (better professors might mean better students, which would affect their pay)
+Note: There may be biases in these ratings -- are people who are unhappy with professors more likely to rate? 
+Student teacher ratio (from US News or College Simply)
+Class size (from US News) 
+Location 
+Finding the metropolitan or nonmetropolitan area that the college is in (based on definitions by the Bureau of Labor) and then taking the salary of computer-related jobs in that geographic region for comparison 
+We organize by metropolitan area because it is more representative of the income distribution of the city and its surroundings (a metropolitan area includes places that commute into the city) -- we did not organize by state or region (Midwest, Northeast, etc.) because those are too general and not representative of the urban/rural and distributions of incomes within the state 
+School population (larger schools might have more alumni access, but also less one on one interaction, leading to less learning…)
+
+Sampling Ideas: 
+Favorite idea: analyze all 481 schools listed in the best CS schools from US News
+Randomly select 20 schools per state (50 states * top 20 schools = 1000 schools) 
+Per state: 1st ranked, last ranked, middle ranked, & the rest of the 17 are randomly generated
+
+Possible Datasets:
+Salary post-graduation: https://www.payscale.com/college-salary-report/best-schools-by-majors/computer-science 
+Computer Science Program Ranking (determined via survey): https://www.usnews.com/best-colleges/rankings/computer-science-overall 
+Teacher-to-student ratio: https://oedb.org/rankings/student-faculty-ratio/ (also available on US News or College Simply)
+Average Professor Rating: https://www.ratemyprofessors.com/ 
+Location, Student Population: https://www.collegesimply.com/ 
+Bureau of Labor Statistics: dataset of salary by occupation (we would have to filter for CS-related occupations) for every metropolitan area: https://www.bls.gov/oes/current/oes151251.htm 
+Mapping of metropolitan areas to counties (and then counties get mapped to school):  https://www.bls.gov/oes/current/msa_def.htm#S 
+
+
+
+Idea 2: What proportion of Wikipedia contributors are credible/experienced? 
+Dataset: Wikipedia 
+Article revision history (to show us who has contributed to the article)
+Example: https://en.wikipedia.org/w/index.php?title=Moorestown,_New_Jersey&action=history 
+User talk page (shows where bots flag users for community violations or other users critique/question that person’s edits) 
+Example: https://en.wikipedia.org/wiki/User_talk:Chris_the_speller 
+User contribution page (lists articles this user has contributed to) 
+Example: https://en.wikipedia.org/wiki/Special:Contributions/Chris_the_speller 
+Credibility will be determined by: 
+Whether someone else undid this contributor’s revision
+How many contributions this person has made 
+Whether this person has been flagged for community violations
+
+
+
+Idea 3: What is the association between these factors below and education level per state?
+
+Factors: 
+Political affiliation 
+Religion 
+Population (More ppl →  more taxes →  more funding) 
+Educational facilities (i.e. after school activities)
+Libraries 
+Internet Access 
+Funding for education 
+% students that are home-schooled
+
+Sample: 
+50 sample points, one for each state
+
+Possible Datasets:
+Party Affiliation: https://www.pewforum.org/religious-landscape-study/compare/party-affiliation/by/state/ 
+Religion: https://www.pewforum.org/religious-landscape-study/ 
+Population: https://www.census.gov/newsroom/press-kits/2019/national-state-estimates.html 
+Libraries per state: https://librarytechnology.org/libraries/uspublic/
+Per-pupil spending (funding): https://www.edweek.org/ew/collections/quality-counts-2019-state-finance/map-per-pupil-spending-state-by-state.html 
+Education level per state: https://data.ers.usda.gov/reports.aspx?ID=17829 
+Internet Access: https://nces.ed.gov/programs/digest/d19/tables/dt19_702.12.asp 
+Homeschooling:
+https://rs.io/where-is-homeschooling-most-popular-states-by-the-numbers/ (not all states listed)
+https://responsiblehomeschooling.org/research/summaries/homeschooling-numbers/ (doesn’t give total # of students per state)
+https://a2zhomeschooling.com/thoughts_opinions_home_school/numbers_homeschooled_students/ (2017-2018, gives total # of students so we can calculate % homeschooling)
+
+Problem: States may not be a meaningful distinction (i.e. it might be more meaningful to go by county), but we haven’t found many datasets for county-level analysis
+
+Questions for Reviewers: 
+For idea 1, is it alright if we don’t take into account where students move to after graduation when we analyze school location? Realistically, if students tend to move to places like California then their salaries will be higher, regardless of where their college was located, but not every school publicizes this information. 
