@@ -73,7 +73,11 @@ The Ohio State University LogoThe Ohio State UniversityMore	United States
 151-200
 Rice University LogoRice UniversityMore	United States		
 151-200
+<<<<<<< HEAD
 Rutgers University–New Brunswick LogoRutgers University New BrunswickMore	United States		
+=======
+Rutgers University–New Brunswick LogoRutgers University–New BrunswickMore	United States		
+>>>>>>> 9f514ce356880815b47eb27b597b9d4e204e81ee
 151-200
 Stony Brook University, State University of New York LogoStony Brook University, State University of New YorkMore	United States
 151-200
