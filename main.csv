@@ -1,99 +1,99 @@
-,school,rank,tsr,pop,early_pay,a_mean,county,rat
-0,Massachusetts Institute of Technology,1,3.0,4602,99800,100149.41,Middlesex County,3.94
-1,Harvard University,1,7.0,9950,96100,100149.41,Middlesex County,3.95
-2,Tufts University,4,9.0,5643,88000,100149.41,Middlesex County,3.81
-3,Stanford University,1,5.0,7087,107400,122369.38,Santa Clara County,3.97
-4,Carnegie Mellon University,1,10.0,6589,99000,86185.62,Allegheny County,3.77
-5,University of Pittsburgh,3,14.0,19330,55100,86185.62,Allegheny County,3.77
-6,University of California Berkeley,1,20.0,30853,105700,114186.47,Alameda County,3.81
-7,Princeton University,1,5.0,5428,101300,98241.43,Mercer County,4.04
-8,University of California Los Angeles,1,18.0,31577,88800,98513.53,Los Angeles County,3.76
-9,University of Southern California,2,9.0,19907,88400,98513.53,Los Angeles County,3.79
-10,University of Washington,1,19.0,32099,84300,105332.0,King County,3.78
-11,Columbia University,1,6.0,8216,93500,104121.18,New York County,3.9
-12,New York University,1,9.0,26733,81100,104121.18,New York County,3.79
-13,Cornell University,1,9.0,15182,92400,100330.0,Tompkins County,3.8
-14,Georgia Institute of Technology,2,18.0,16049,82800,87437.06,Fulton County,3.63
-15,Georgia State University,4,23.0,27231,64400,87437.06,Fulton County,3.82
-16,University of Texas at Austin,2,18.0,40804,81100,91882.35,Travis County,3.8
-17,University of Illinois at Urbana Champaign,2,20.0,33915,83800,84952.73,Champaign County,3.69
-18,University of Pennsylvania,2,6.0,11851,98900,93821.76,Philadelphia County,4.1
-19,Temple University,4,14.0,29484,65900,93821.76,Philadelphia County,3.72
-20,Drexel University,4,11.0,15724,69800,93821.76,Philadelphia County,3.55
-21,Yale University,2,6.0,5964,104200,84375.62,New Haven County,3.85
-22,University of Michigan Ann Arbor,2,11.0,30318,81100,78622.67,Washtenaw County,3.81
-23,University of Maryland College Park,2,18.0,30762,80300,104537.06,Prince George's County,3.65
-24,Boston University,2,10.0,18515,80300,100149.41,Suffolk County,3.73
-25,Northeastern University,3,14.0,13909,78500,100149.41,Suffolk County,3.61
-26,Duke University,2,6.0,6682,89000,92112.5,Durham County,3.82
-27,Johns Hopkins University,2,7.0,6064,88800,98432.35,Baltimore City,3.67
-28,Purdue University,2,13.0,33735,69700,67908.0,Tippecanoe County,3.7
-29,University of California San Diego,2,19.0,30285,88400,99321.18,San Diego County,3.66
-30,University of Wisconsin Madison,2,17.0,31705,76900,83651.76,Dane County,3.8
-31,Michigan State University,3,16.0,39423,71500,72808.67,Ingham County,3.63
-32,Pennsylvania State University,3,14.0,40363,68900,73950.0,Centre County,3.7
-33,University of California Irvine,3,18.0,29736,79100,98513.53,Orange County,3.75
-34,University of Massachusetts Amherst,3,17.0,23515,81500,83679.41,Hampshire County,3.7
-35,University of North Carolina Chapel Hill,3,13.0,19117,76700,92112.5,Orange County,3.86
-36,Brown University,3,6.0,7043,98900,91598.82,Providence County,3.93
-37,Northwestern University,3,6.0,8642,79900,89126.47,Cook County,3.78
-38,Illinois Institute of Technology,4,12.0,3026,73200,89126.47,Cook County,3.63
-39,Ohio State University,3,19.0,46820,66000,86291.18,Franklin County,3.82
-40,Rice University,3,6.0,3992,90800,94117.06,Harris County,3.85
-41,University of Houston,4,22.0,38348,65800,94117.06,Harris County,3.7
-42,Rutgers University New Brunswick,3,16.0,36039,73300,104121.18,Middlesex County,3.75
-43,Stony Brook University,3,18.0,17522,76100,104121.18,Suffolk County,3.76
-44,Texas A M University,3,20.0,53743,71000,76953.85,Brazos County,3.73
-45,University of California Santa Barbara,3,22.0,23070,84700,93101.33,Santa Barbara County,3.78
-46,University of Virginia,3,15.0,16777,84700,91618.46,Albemarle County,3.84
-47,Arizona State University,3,14.0,8702,69300,89144.38,Maricopa County,3.7
-48,Indiana University Bloomington,3,16.0,33301,65500,67062.73,Monroe County,3.74
-49,North Carolina State University,3,14.0,25199,72400,85658.12,Wake County,3.68
-50,University of California Davis,3,20.0,30718,91100,96196.67,Yolo County,3.75
-51,University of Florida,3,18.0,35491,70200,71453.85,Alachua County,3.74
-52,University of Illinois at Chicago,3,18.0,20783,69100,83364.71,Cook County,3.77
-53,University of Notre Dame,3,10.0,8617,82700,67152.31,St. Joseph County,3.93
-54,Virginia Polytechnic Institute and State University,3,14.0,27811,82100,84193.33,Montgomery County,3.75
-55,George Mason University,3,17.0,26192,70600,104537.06,Fairfax County,3.77
-56,University of Arizona,3,15.0,34153,72300,82734.71,Pima County,3.7
-57,University of Colorado Boulder,3,18.0,30159,73800,103572.86,Boulder County,3.69
-58,University of Minnesota Twin Cities,3,17.0,34437,73900,91139.41,Hennepin County,3.69
-59,University of Texas Dallas,3,25.0,19872,71600,93404.12,Dallas County,3.67
-60,Washington State University,3,15.0,26098,73000,83679.41,Whitman County,3.63
-61,Washington University in St  Louis,3,7.0,7751,85800,83364.71,St. Louis County,3.81
-62,Florida State University,4,21.0,32472,59000,66928.46,Leon County,3.8
-63,George Washington University,4,13.0,12546,78400,104537.06,District of Columbia,3.69
-64,Dartmouth College,4,7.0,4418,101800,80022.86,Grafton County,4.4
-65,Rensselaer Polytechnic Institute,4,13.0,6628,84500,82020.0,Rensselaer County,3.57
-66,Syracuse University,4,15.0,15226,69100,84193.33,Onondaga County,3.67
-67,University at Buffalo,4,13.0,21607,64800,81123.12,Erie County,3.73
-68,University of Central Florida,4,30.0,58821,61200,83213.75,Orange County,3.74
-69,University of Miami,4,12.0,11117,66100,84900.0,Miami-Dade County,3.82
-70,Florida International University,4,26.0,48818,59700,84900.0,Miami-Dade County,3.82
-71,University of Utah,4,17.0,24743,69500,86912.94,Salt Lake County,3.76
-72,Vanderbilt University,4,7.0,6861,73400,77295.29,Davidson County,3.83
-73,Iowa State University,4,19.0,29621,70600,76420.83,Story County,3.62
-74,University of South Florida,4,22.0,32240,61400,83498.12,Hillsborough County,3.74
-75,University of Tennessee Knoxville,4,17.0,22815,65300,71941.33,Knox County,3.74
-76,Case Western Reserve University,4,11.0,5261,75600,80061.18,Cuyahoga County,3.72
-77,William   Mary,4,11.0,6377,80700,83151.88,Williamsburg City,3.8
-78,University of Georgia,4,17.0,29611,74000,70307.78,Clarke County,3.84
-79,University of Alabama,4,22.0,33028,69600,84929.17,Tuscaloosa County,3.89
-80,University of California Santa Cruz,4,19.0,17792,85600,95123.64,Santa Cruz County,3.72
-81,University of South Carolina,4,17.0,26733,64000,75932.31,Richland County,3.77
-82,Wayne State University,4,14.0,17574,65300,81249.38,Wayne County,3.78
-83,Colorado State University,4,16.0,25962,69200,87905.0,Larimer County,3.63
-84,Michigan Technological University,4,13.0,5797,63800,60551.67,Houghton County,3.56
-85,New Jersey Institute of Technology,4,17.0,8532,67200,104121.18,Essex County,3.56
-86,University of California Riverside,4,23.0,20581,72900,87192.35,Riverside County,3.8
-87,University of Connecticut,4,16.0,19133,72800,89468.75,Tolland County,3.65
-88,University of Maryland Baltimore County,4,19.0,11260,69100,98432.35,Baltimore County,3.71
-89,University of Texas at San Antonio,4,25.0,27988,62500,85287.5,Bexar County,3.77
-90,Binghamton University,4,19.0,14021,75100,83756.67,Broome County,3.81
-91,Clemson University,4,16.0,19669,68600,71210.0,Pickens County,3.71
-92,Oregon State University,4,17.0,25699,74800,84752.22,Benton County,3.62
-93,Texas Tech University,4,20.0,31957,68100,67799.23,Lubbock County,3.73
-94,University of Missouri Columbia,4,17.0,22484,66900,67346.36,Boone County,3.9
-95,University of Nebraska Lincoln,4,18.0,20830,65900,73816.88,Lancaster County,3.62
-96,University of Oregon,4,17.0,19101,65200,71000.0,Lane County,3.71
-97,University of Texas Arlington,4,24.0,34472,65000,93404.12,Tarrant County,3.72
+,school,rank,tsr,pop,early_pay,a_mean,a_median,county,rat
+0,Massachusetts Institute of Technology,1,3.0,4602,99800,100149.41,96790.0,Middlesex County,3.94
+1,Harvard University,1,7.0,9950,96100,100149.41,96790.0,Middlesex County,3.95
+2,Tufts University,4,9.0,5643,88000,100149.41,96790.0,Middlesex County,3.81
+3,Stanford University,1,5.0,7087,107400,122369.38,124350.0,Santa Clara County,3.97
+4,Carnegie Mellon University,1,10.0,6589,99000,86185.62,83340.0,Allegheny County,3.77
+5,University of Pittsburgh,3,14.0,19330,55100,86185.62,83340.0,Allegheny County,3.77
+6,University of California Berkeley,1,20.0,30853,105700,114186.47,118590.0,Alameda County,3.81
+7,Princeton University,1,5.0,5428,101300,98241.43,96010.0,Mercer County,4.04
+8,University of California Los Angeles,1,18.0,31577,88800,98513.53,94170.0,Los Angeles County,3.76
+9,University of Southern California,2,9.0,19907,88400,98513.53,94170.0,Los Angeles County,3.79
+10,University of Washington,1,19.0,32099,84300,105332.0,104330.0,King County,3.78
+11,Columbia University,1,6.0,8216,93500,104121.18,100710.0,New York County,3.9
+12,New York University,1,9.0,26733,81100,104121.18,100710.0,New York County,3.79
+13,Cornell University,1,9.0,15182,92400,100330.0,93970.0,Tompkins County,3.8
+14,Georgia Institute of Technology,2,18.0,16049,82800,87437.06,89150.0,Fulton County,3.63
+15,Georgia State University,4,23.0,27231,64400,87437.06,89150.0,Fulton County,3.82
+16,University of Texas at Austin,2,18.0,40804,81100,91882.35,85640.0,Travis County,3.8
+17,University of Illinois at Urbana Champaign,2,20.0,33915,83800,84952.73,73840.0,Champaign County,3.69
+18,University of Pennsylvania,2,6.0,11851,98900,93821.76,90290.0,Philadelphia County,4.1
+19,Temple University,4,14.0,29484,65900,93821.76,90290.0,Philadelphia County,3.72
+20,Drexel University,4,11.0,15724,69800,93821.76,90290.0,Philadelphia County,3.55
+21,Yale University,2,6.0,5964,104200,84375.62,82105.0,New Haven County,3.85
+22,University of Michigan Ann Arbor,2,11.0,30318,81100,78622.67,73500.0,Washtenaw County,3.81
+23,University of Maryland College Park,2,18.0,30762,80300,104537.06,104990.0,Prince George's County,3.65
+24,Boston University,2,10.0,18515,80300,100149.41,96790.0,Suffolk County,3.73
+25,Northeastern University,3,14.0,13909,78500,100149.41,96790.0,Suffolk County,3.61
+26,Duke University,2,6.0,6682,89000,92112.5,89870.0,Durham County,3.82
+27,Johns Hopkins University,2,7.0,6064,88800,98432.35,99500.0,Baltimore City,3.67
+28,Purdue University,2,13.0,33735,69700,67908.0,64750.0,Tippecanoe County,3.7
+29,University of California San Diego,2,19.0,30285,88400,99321.18,100020.0,San Diego County,3.66
+30,University of Wisconsin Madison,2,17.0,31705,76900,83651.76,82040.0,Dane County,3.8
+31,Michigan State University,3,16.0,39423,71500,72808.67,72660.0,Ingham County,3.63
+32,Pennsylvania State University,3,14.0,40363,68900,73950.0,72160.0,Centre County,3.7
+33,University of California Irvine,3,18.0,29736,79100,98513.53,94170.0,Orange County,3.75
+34,University of Massachusetts Amherst,3,17.0,23515,81500,83679.41,79800.0,Hampshire County,3.7
+35,University of North Carolina Chapel Hill,3,13.0,19117,76700,92112.5,89870.0,Orange County,3.86
+36,Brown University,3,6.0,7043,98900,91598.82,89050.0,Providence County,3.93
+37,Northwestern University,3,6.0,8642,79900,89126.47,87630.0,Cook County,3.78
+38,Illinois Institute of Technology,4,12.0,3026,73200,89126.47,87630.0,Cook County,3.63
+39,Ohio State University,3,19.0,46820,66000,86291.18,88880.0,Franklin County,3.82
+40,Rice University,3,6.0,3992,90800,94117.06,92940.0,Harris County,3.85
+41,University of Houston,4,22.0,38348,65800,94117.06,92940.0,Harris County,3.7
+42,Rutgers University New Brunswick,3,16.0,36039,73300,104121.18,100710.0,Middlesex County,3.75
+43,Stony Brook University,3,18.0,17522,76100,104121.18,100710.0,Suffolk County,3.76
+44,Texas A M University,3,20.0,53743,71000,76953.85,71420.0,Brazos County,3.73
+45,University of California Santa Barbara,3,22.0,23070,84700,93101.33,90950.0,Santa Barbara County,3.78
+46,University of Virginia,3,15.0,16777,84700,91618.46,91880.0,Albemarle County,3.84
+47,Arizona State University,3,14.0,8702,69300,89144.38,85905.0,Maricopa County,3.7
+48,Indiana University Bloomington,3,16.0,33301,65500,67062.73,61580.0,Monroe County,3.74
+49,North Carolina State University,3,14.0,25199,72400,85658.12,91250.0,Wake County,3.68
+50,University of California Davis,3,20.0,30718,91100,96196.67,93770.0,Yolo County,3.75
+51,University of Florida,3,18.0,35491,70200,71453.85,65530.0,Alachua County,3.74
+52,University of Illinois at Chicago,3,18.0,20783,69100,83364.71,84910.0,Cook County,3.77
+53,University of Notre Dame,3,10.0,8617,82700,67152.31,69120.0,St. Joseph County,3.93
+54,Virginia Polytechnic Institute and State University,3,14.0,27811,82100,84193.33,82675.0,Montgomery County,3.75
+55,George Mason University,3,17.0,26192,70600,104537.06,104990.0,Fairfax County,3.77
+56,University of Arizona,3,15.0,34153,72300,82734.71,81490.0,Pima County,3.7
+57,University of Colorado Boulder,3,18.0,30159,73800,103572.86,98570.0,Boulder County,3.69
+58,University of Minnesota Twin Cities,3,17.0,34437,73900,91139.41,87740.0,Hennepin County,3.69
+59,University of Texas Dallas,3,25.0,19872,71600,93404.12,91760.0,Dallas County,3.67
+60,Washington State University,3,15.0,26098,73000,78570.0,76640.0,Whitman County,3.63
+61,Washington University in St  Louis,3,7.0,7751,85800,83364.71,84910.0,St. Louis County,3.81
+62,Florida State University,4,21.0,32472,59000,66928.46,55720.0,Leon County,3.8
+63,George Washington University,4,13.0,12546,78400,104537.06,104990.0,District of Columbia,3.69
+64,Dartmouth College,4,7.0,4418,101800,80022.86,82400.0,Grafton County,4.4
+65,Rensselaer Polytechnic Institute,4,13.0,6628,84500,82020.0,79660.0,Rensselaer County,3.57
+66,Syracuse University,4,15.0,15226,69100,84193.33,81370.0,Onondaga County,3.67
+67,University at Buffalo,4,13.0,21607,64800,81123.12,77670.0,Erie County,3.73
+68,University of Central Florida,4,30.0,58821,61200,83213.75,81810.0,Orange County,3.74
+69,University of Miami,4,12.0,11117,66100,84900.0,79720.0,Miami-Dade County,3.82
+70,Florida International University,4,26.0,48818,59700,84900.0,79720.0,Miami-Dade County,3.82
+71,University of Utah,4,17.0,24743,69500,86912.94,79500.0,Salt Lake County,3.76
+72,Vanderbilt University,4,7.0,6861,73400,77295.29,75320.0,Davidson County,3.83
+73,Iowa State University,4,19.0,29621,70600,76420.83,71200.0,Story County,3.62
+74,University of South Florida,4,22.0,32240,61400,83498.12,81985.0,Hillsborough County,3.74
+75,University of Tennessee Knoxville,4,17.0,22815,65300,71941.33,66900.0,Knox County,3.74
+76,Case Western Reserve University,4,11.0,5261,75600,80061.18,80220.0,Cuyahoga County,3.72
+77,William   Mary,4,11.0,6377,80700,83151.88,79535.0,Williamsburg City,3.8
+78,University of Georgia,4,17.0,29611,74000,70307.78,58350.0,Clarke County,3.84
+79,University of Alabama,4,22.0,33028,69600,84929.17,82935.0,Tuscaloosa County,3.89
+80,University of California Santa Cruz,4,19.0,17792,85600,95123.64,88460.0,Santa Cruz County,3.72
+81,University of South Carolina,4,17.0,26733,64000,75932.31,77020.0,Richland County,3.77
+82,Wayne State University,4,14.0,17574,65300,81249.38,82365.0,Wayne County,3.78
+83,Colorado State University,4,16.0,25962,69200,87905.0,84745.0,Larimer County,3.63
+84,Michigan Technological University,4,13.0,5797,63800,60551.67,63560.0,Houghton County,3.56
+85,New Jersey Institute of Technology,4,17.0,8532,67200,104121.18,100710.0,Essex County,3.56
+86,University of California Riverside,4,23.0,20581,72900,87192.35,85550.0,Riverside County,3.8
+87,University of Connecticut,4,16.0,19133,72800,89468.75,91160.0,Tolland County,3.65
+88,University of Maryland Baltimore County,4,19.0,11260,69100,98432.35,99500.0,Baltimore County,3.71
+89,University of Texas at San Antonio,4,25.0,27988,62500,85287.5,84130.0,Bexar County,3.77
+90,Binghamton University,4,19.0,14021,75100,83756.67,76180.0,Broome County,3.81
+91,Clemson University,4,16.0,19669,68600,71210.0,68050.0,Pickens County,3.71
+92,Oregon State University,4,17.0,25699,74800,84752.22,76990.0,Benton County,3.62
+93,Texas Tech University,4,20.0,31957,68100,67799.23,62140.0,Lubbock County,3.73
+94,University of Missouri Columbia,4,17.0,22484,66900,67346.36,66200.0,Boone County,3.9
+95,University of Nebraska Lincoln,4,18.0,20830,65900,73816.88,65565.0,Lancaster County,3.62
+96,University of Oregon,4,17.0,19101,65200,71000.0,67155.0,Lane County,3.71
+97,University of Texas Arlington,4,24.0,34472,65000,93404.12,91760.0,Tarrant County,3.72
